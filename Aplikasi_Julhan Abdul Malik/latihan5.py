@@ -9,7 +9,7 @@
 # print harga barang beserta nama barang
 
 print("------------------------------------------------------")
-print("----------- Latihan 4 - Julhan Abdul Malik -----------")
+print("----------- Latihan 5 - Julhan Abdul Malik -----------")
 print("------------------------------------------------------")
 
 modal_kesuluruhan = 0
